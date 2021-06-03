@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter writ by Mijn Heer Fagel, pensioner to the great and mighty lords, the states of Holland Westfriesland writ in French on the ninth of April, N. Stile, 1688, to the Marquiss of Albeville, Envoy Extraordinary of His Majesty of Great Britain, to the high and mighty the States General of the United Provinces : to which is prefixt an account in Dutch of the letter writ by Mijn Heer Fagel on the 4th of November in the year 1687, to Mr. Stewart, written by the said pensioner, and published by his order / translated out of the French and Dutch into English.</title>
+            <author>Fagel, Gaspar, 1634-1688.</author>
+         </titleStmt>
+         <extent>Approx. 14KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22795</idno><idno type="EEBO-CITATION">12062040</idno>
+  <idno type="VID">199474</idno>
+  <idno type="EEBO-PROQUEST">2240923289</idno>
+  
+            <idno type="STC">Wing F90</idno>
+            <idno type="OCLC">12062040</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B22795)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 199474)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 562:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter writ by Mijn Heer Fagel, pensioner to the great and mighty lords, the states of Holland Westfriesland writ in French on the ninth of April, N. Stile, 1688, to the Marquiss of Albeville, Envoy Extraordinary of His Majesty of Great Britain, to the high and mighty the States General of the United Provinces : to which is prefixt an account in Dutch of the letter writ by Mijn Heer Fagel on the 4th of November in the year 1687, to Mr. Stewart, written by the said pensioner, and published by his order / translated out of the French and Dutch into English.</title>
+                  <author>Fagel, Gaspar, 1634-1688.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by James Scheltus ...,</publisher>
+                  <pubPlace>The Hague :</pubPlace>
+                  <date>[1688].</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title and imprint.</note>
+                  <note>The "account in Dutch" is in English.</note>
+                  <note>The Marquis d'Albeville is Ignatius White--Cf. BM.</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Fagel, Gaspar, 1634-1688. --  Letter writ by Mijn Heer Fagel, pensioner of Holland, to Mr. James Stewart, advocate.</term>
+               <term type="uniform_title">Test Act (1673)</term>
+               <term type="topical_term">Dissenters, Religious --  Legal status, laws, etc. --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:199474:1"/>
+            <head>A LETTER Writ by Mijn Heer <hi>Fagel,</hi> PENSIONER to the Great and Mighty Lords, the <hi>States</hi> of <hi>Holland</hi> and <hi>Westfriesland.</hi>
+            </head>
+            <head>
+               <hi>Writ in</hi> French <hi>on the Ninth of</hi> April, <hi>N. Stile.</hi> 1688.</head>
+            <head>To the Marquis of <hi>Albeville,</hi> Envoy Extraordinary of His Ma<g ref="char:EOLhyphen"/>jesty of <hi>Great Brittain,</hi> to the High and Mighty the <hi>States General</hi> of the <hi>United Provinces.</hi>
+            </head>
+            <head>To which is prefixt an Account in <hi>Dutch</hi> of the <hi>Letter</hi> writ by Mijn Heer <hi>Fagel</hi> on the fourth of <hi>November</hi> in the year 1687. to Mr. <hi>Stewart,</hi> written by the said <hi>Pensioner,</hi> and published by his Order.</head>
+            <head>Printed at the <hi>Hague</hi> by <hi>James Scheltus,</hi> Printer to the <hi>States</hi> of <hi>Holland</hi> and <hi>Westfriesland.</hi>
+            </head>
+            <head>Translated out of the <hi>French</hi> and <hi>Dutch</hi> into <hi>English.</hi>
+            </head>
+            <opener>
+               <salute>READER,</salute>
+            </opener>
+            <p>I <hi>Gasper Fagel,</hi> having the honour to serve the <hi>Great and Mighty States</hi> of <hi>Holland</hi> and <hi>West<g ref="char:EOLhyphen"/>friesland</hi> in the Quality of their <hi>Pensioner,</hi> cannot any longer delay the giving the Publick this account, that in the Month of <hi>Ju<g ref="char:EOLhyphen"/>ly</hi> last 1687. I was very earnestly desired by Mr. <hi>James Stewart</hi> Advocate, to write to him what were the <hi>Prince</hi> and <hi>Princess</hi> of <hi>Orange</hi>'s Thoughts concerning the Repealing of the <hi>TEST and the Penal Laws:</hi> but I was not easily brought to put Pen to Paper on this subject, because I knew that their <hi>Highnesses</hi> thoughts, did not agree with his <hi>Majesties:</hi> so that the Writing in such matters was extream tender: therefore I delayed it till I was more earnestly pressed to it; and it was intimated to me, that those pressing desires were made by His <hi>Majesties</hi> Knowledge and Allowance: at last I did according to the mind of their <hi>Highnesses,</hi> draw the <hi>Letter</hi> which I writ to Mr. <hi>Stewart</hi> on the fourth of <hi>November:</hi> I transmitted the draught of my <hi>Letter</hi> to their <hi>Highnesses,</hi> and re<g ref="char:EOLhyphen"/>ceived upon it their order to send it, after that their <hi>Highnesses</hi> had read and examined the draught in <hi>Dutch,</hi> together with the Translati<g ref="char:EOLhyphen"/>on of it into <hi>English:</hi> upon all this I sent my Let<g ref="char:EOLhyphen"/>ter to Mr. <hi>Stewart</hi> in the beginning of <hi>November,</hi> and received an Answer from him, by which he signified, that he had shewed my <hi>Letter,</hi> both to the Earl of <hi>Melfort</hi> and to the Earl of <hi>Sunder<g ref="char:EOLhyphen"/>land,</hi> and that it was also shewed to the <hi>King him<g ref="char:EOLhyphen"/>self;</hi> nor did he in the least intimate to me that it was desired that I should make any great secret of it, or take care that it should nor become publick: That <hi>Letter,</hi> was afterwards about the middle of <hi>January,</hi> printed in <hi>England;</hi> and up<g ref="char:EOLhyphen"/>on its coming over into this <hi>Countrey,</hi> it has occa<g ref="char:EOLhyphen"/>sioned a gteat deal of noise; yet I have not hi<g ref="char:EOLhyphen"/>therto concerned my self in all those discourses, or in all that has been Writ and Printed upon it. But have let all people reason or write con<g ref="char:EOLhyphen"/>cerning it as they pleased; But I have lately
+<pb n="2" facs="tcp:199474:2"/> seen an <hi>English Book,</hi> entitled, <hi>Parliamentum Pa<g ref="char:EOLhyphen"/>cificum,</hi> printed at <hi>London,</hi> in this present year, by vertue of a <hi>Licence</hi> signed by the Earl of <hi>Sun<g ref="char:EOLhyphen"/>derland:</hi> in which that <hi>Letter</hi> writ by me, is not only called a <hi>Pretended Piece,</hi> but it is said, that that which I had set forth in my <hi>Letter</hi> concern<g ref="char:EOLhyphen"/>ing the <hi>Prince</hi> and <hi>Princesses</hi> thoughts, relating to the Repeal of the <hi>Test and the Penal Laws</hi> was advanced by me without the knowledge of their <hi>Highnesses,</hi> at least of Her <hi>Royal Highness:</hi> and by this the <hi>Reader</hi> may be perhaps wrought on to believe either that my <hi>Letter</hi> was a <hi>Pretended Piece,</hi> and Forgery, or that I writ it without Or<g ref="char:EOLhyphen"/>der from their <hi>Highnesses;</hi> since it may indeed seem scarce probable, that the Author could have obtained a <hi>Licence</hi> for the Printing of a Paper that contains such falshoods in it, which the <hi>Court</hi> and in particular the Earl of <hi>Sunderland</hi> could not but know to be such: for they know weli both that the <hi>Letter</hi> was writ by me, and that I was ordered to write it by their <hi>Highnesses▪</hi> theer<g ref="char:EOLhyphen"/>fore I could not delay any longer to undeceive the world. Thus I am obliged to publish this account of the matter. I have still in my pos<g ref="char:EOLhyphen"/>session, those <hi>Letters</hi> by which I was earnestly pressed to write the forementioned <hi>Letter,</hi> in which it is expresly said, <hi>that they were writ by His Majesties Knowledge and Allowance:</hi> I have al<g ref="char:EOLhyphen"/>so that <hi>Letter</hi> in which notice is given that my <hi>Letter</hi> had come to hand, and that it was shewed not only to the Earls of <hi>Melfort</hi> and <hi>Sunderland,</hi> but to His Majesty himself, so that they know well that it is no <hi>Pretended Piece.</hi> I have also by me the <hi>Letter,</hi> by which His <hi>Highness</hi> desired me to send my Letter to Mr. <hi>Stewart,</hi> together with the <hi>English</hi> Translation of it: all which I will Print, if I find it necessary. So that it is a gross abuse put on the world, to say that my Letter is a <hi>Forgery,</hi> since as it was truly writ by <hi>me,</hi> so it has been avowed by me ever since it first ap<g ref="char:EOLhyphen"/>peared: And it is a base Calumny and Slander, to say, that I writ that account of their <hi>Highnesses</hi> thoughts concerning the Repeal of the <hi>Test</hi> and the <hi>Penal Laws</hi> without their knowledge; which appears so much the more evident▪ since it can<g ref="char:EOLhyphen"/>not be imagined, that their <hi>Highnesses</hi> would not have expressed their just resentments, at so high and extravagant a presumption as I should have committed, if I had written any account of their <hi>thoughts,</hi> without their knowledge: All this has obliged me for my own Vindication to write the following <hi>Letter,</hi> to the Marquis of <hi>Albeville,</hi> His Majesties <hi>Envoy to the States:</hi> be<g ref="char:EOLhyphen"/>cause I have had much discourse with him con<g ref="char:EOLhyphen"/>cerning the writing of that <hi>Letter,</hi> long before this Book called <hi>Parliamentum Pacificum</hi> was pub<g ref="char:EOLhyphen"/>lished: but I will not engage my self any further to examin the reasons of the Author of that Pamphlet: for I know well, that in those mat<g ref="char:EOLhyphen"/>ters the world is divided into very different sen<g ref="char:EOLhyphen"/>timents, and that men are apt to approve or censure such things, according to their precon<g ref="char:EOLhyphen"/>ceived Opinions: Of all this I thought it neces<g ref="char:EOLhyphen"/>sary to advertise my Reader, and to Order this account of my <hi>Letter</hi> to be Printed by a known <hi>Printer</hi> from a Copy signed by my hand:</p>
+            <closer>
+               <dateline>At the <hi>Hague</hi>
+                  <date>the Tenth of <hi>April,</hi> 1688.</date>
+               </dateline>
+               <signed>GASPER FAGEL.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="3" facs="tcp:199474:2"/>
+            <head>A Copy of the <hi>LETTER</hi> Writ by Mijn Heer <hi>Fagel,</hi> to the <hi>Marquis</hi> of <hi>Albeville,</hi> bearing date the Ninth of <hi>April,</hi> 1688.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THere has appeared here an <hi>English Book</hi> Printed at <hi>London</hi> this year, Entitled <hi>Parliamentum Pacificum,</hi> with an <hi>Im<g ref="char:EOLhyphen"/>primatur</hi> before it signed by the Earl of <hi>Sunderland:</hi> of which I cannot but complain to you how averse soever I am from all things of that kind. It is affirmed in that Book, that the <hi>Letter</hi> which I writ to Mr. <hi>Stewart</hi> the Fourth of <hi>November</hi> last year, concerning the <hi>Test</hi> and the <hi>Penal Laws</hi> is a <hi>Pretended Piece,</hi> or at least that I writ it without <hi>Order;</hi> and without the consent of their <hi>Highnesses,</hi> and more particular<g ref="char:EOLhyphen"/>ly of her <hi>Royal Highness the</hi> PRINCESS of ORANGE: I will not engage my self to examin and refute the particulars that are in that <hi>Book,</hi> for that were as unsuteable to the Character I bear, as it is to my own Inclinations: which do both concur in making it unfit for me to enter upon a publick dispute in things of this nature: But you cannot think it strange, if I desire you to call to mind, that it was not of my own head that I was engaged to write that <hi>Letter</hi> which is now called in question: it was far from that: I was pressed by earnest and often repeated In<g ref="char:EOLhyphen"/>stances for the space of four Months, that were made to me in His <hi>Majesties</hi> name, to write upon that subject; which at last prevailed with me; yet I went about it with all the caution that a matter of such Importance required; and I took care not to write one single period in that whole <hi>Letter,</hi> that I apprehended might give His Majesty the least offence: yet after all I see this <hi>Letter</hi> is treated as an <hi>Imposture,</hi> in a <hi>Book</hi> publish<g ref="char:EOLhyphen"/>ed by Authority: thô both His Majesty and the whole <hi>Court</hi> know the truth of this matter, which <hi>Sir,</hi> I have in particular owned to your self, as being the Kings <hi>Minister</hi> here: as I have also owned it to all that have spoke to me upon the <hi>Subject.</hi> But that which troubles me more is, that I am accused for having made use of their <hi>Highnesses</hi> name, and in particular of her <hi>Royal Highnesses</hi> without their <hi>Order,</hi> as if I were capable of so Infamous a Forgery, and of an Imposture so unworthy of any Man of honour, and that chiefly in a matter of so great Conse<g ref="char:EOLhyphen"/>quence. <hi>Sir,</hi> You must not think it strange, if in this I appeal to your self, to that which you know, and which you have often owned to me your self: that their <hi>Highnesses,</hi> and particularly Her <hi>Royal Highness,</hi> have often expressed to you their thoughts concerning the <hi>Test and the Penal Laws,</hi> conform to that which I writ in their names: which you owned to me, that you had writ to the <hi>Court</hi> of <hi>England,</hi> long before I writ that <hi>Letter,</hi> and that therefore you could not imagin upon what reason the <hi>Court</hi> could press me so much as they did to write to Mr. <hi>Stewart.</hi> I do assure you, I find my self very little con<g ref="char:EOLhyphen"/>cerned in what is said in this late <hi>Book,</hi> or in any other of that kind: I foresaw well enough from the begining that I should be attackt upon the account of my <hi>Letter:</hi> in which it was In<g ref="char:EOLhyphen"/>different to me what any man thought of it. But this <hi>Book</hi> being published by the Authority of a <hi>Licence</hi> granted by the Earl of <hi>Sunderland President of His Majesties Privy Council and Secre<g ref="char:EOLhyphen"/>tary of State,</hi> I find my honour is so touched in it, that I am obliged to undeceive the world, of the false accusation with which I am charged in it. And I thought <hi>Sir,</hi> that I could not do this better, than by Writing to you, that are His Ma<g ref="char:EOLhyphen"/>jesties <hi>Minister,</hi> and who know perfectly the truth of the matter, that is now called in que<g ref="char:EOLhyphen"/>stion: and therefore I desire you will write con<g ref="char:EOLhyphen"/>cerning it, to the Earl of <hi>Sunderland:</hi> I believe he has not seen or at ieast that he has not consi<g ref="char:EOLhyphen"/>dered the passages of that <hi>Book</hi> that do concern me. For I am sure if he had done that, he would never have Licensed it: for my Lord <hi>Sun<g ref="char:EOLhyphen"/>derland</hi> know, as well as any man alive does, that my <hi>Letter</hi> to Mr. <hi>Stewart</hi> is no Pretended Piece: he himself saw the <hi>Letter,</hi> or at least the <hi>English</hi> Translation of it that I sent along with it: And he could not but know likewise, both by your <hi>Letters,</hi> and by what you told by <hi>word of mouth,</hi> that their <hi>Highnesses,</hi> and in particular
+<pb n="4" facs="tcp:199474:3"/> Her <hi>Royal Highness,</hi> have often owned to you, their sense of the <hi>Test</hi> and the <hi>Penal Laws,</hi> con<g ref="char:EOLhyphen"/>form to that which I writ in their name to Mr. <hi>Stewart.</hi> So I do perswade my self, that My Lord <hi>Sunderland</hi> will have the Justice and Goodness to recall this <hi>Licence,</hi> which has been obtained of him by a surprise: and that the <hi>Author</hi> of so manifest and so Injurious a Calum<g ref="char:EOLhyphen"/>ny, shall be punished as he deserveth. I will not likewise conceal from you, the design I have of publishing an account of all that has passed in this matter, as well as of this <hi>Letter,</hi> which I take the liberty now to write to you, in which my design is not to enter into any dispute concerning the matter it self, much less to offend any person whatsoever, but only to cover my Honour which is struck at by this <hi>at<g ref="char:EOLhyphen"/>trocious Calumny.</hi>
+            </p>
+            <closer>
+               <signed>
+                  <hi>I am</hi> Sir <hi>your most humble and most obedient Servant,</hi> GASPER FAGEL.</signed>
+            </closer>
+         </div>
+         <div type="addendum">
+            <head>To all which this Attestation of the <hi>Printer</hi> is added.</head>
+            <p>I the under subscribing <hi>James Scheltus</hi> Printer in Ordinary to The Great and Mighty Lords the States <hi>of</hi> Holland <hi>and</hi> Westfriesland, dwelling in the <hi>Hague,</hi> do Declare and Attest by these presents, that the Writing here published, together with the Copy of the <hi>Letter</hi> Writ in <hi>French</hi> to the Marquis of <hi>Albeville</hi> Envoy Extraor<g ref="char:EOLhyphen"/>dinary of His Majesty of <hi>Great Brittain</hi> to the <hi>States,</hi> were delivered into my hands in order to their being Printed by Mijn Heer <hi>Gasper Fagel,</hi> Pensioner to the abovenamed <hi>Lords</hi> and <hi>States</hi> of <hi>Holland</hi> and <hi>Westfriesland,</hi> and that I have Printed them by His express Order.</p>
+            <closer>
+               <dateline>At the <hi>Hague</hi>
+                  <date>the Tenth of <hi>April,</hi> 1688.</date>
+               </dateline>
+               <signed>J. SCHELTUS.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
